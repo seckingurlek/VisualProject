@@ -13,7 +13,7 @@ namespace EduConnect
 {
     public partial class AddAcademicStaffDetailsPage : Form
     {
-        private string connectionString = @"Data Source=DESKTOP-G556UFM;Initial Catalog=EduConnect;Integrated Security=True;";
+        private string connectionString = "Data Source=DESKTOP-G556UFM;Initial Catalog=EduConnect;Integrated Security=True;";
         public AddAcademicStaffDetailsPage()
         {
             InitializeComponent();

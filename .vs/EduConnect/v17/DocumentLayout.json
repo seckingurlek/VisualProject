@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|c:\\users\\90534\\onedrive\\masa\u00FCst\u00FC\\visualtermproject-main\\edu-connect-main\\educonnect\\addbalancepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\addbalancepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|c:\\users\\90534\\onedrive\\masa\u00FCst\u00FC\\visualtermproject-main\\edu-connect-main\\educonnect\\cateriapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\cateriapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|c:\\users\\90534\\onedrive\\masa\u00FCst\u00FC\\visualtermproject-main\\edu-connect-main\\educonnect\\addbalancepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\addbalancepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|c:\\users\\90534\\onedrive\\masa\u00FCst\u00FC\\visualtermproject-main\\edu-connect-main\\educonnect\\restrictpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\restrictpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|c:\\users\\90534\\onedrive\\masa\u00FCst\u00FC\\visualtermproject-main\\edu-connect-main\\educonnect\\studentprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\studentprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|c:\\users\\90534\\onedrive\\masa\u00FCst\u00FC\\visualtermproject-main\\edu-connect-main\\educonnect\\cateriapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\cateriapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|c:\\users\\90534\\onedrive\\masa\u00FCst\u00FC\\visualtermproject-main\\edu-connect-main\\educonnect\\canteenpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\canteenpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,27 +46,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddBalancePage.cs",
-              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\AddBalancePage.cs",
-              "RelativeDocumentMoniker": "EduConnect\\AddBalancePage.cs",
-              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\AddBalancePage.cs",
-              "RelativeToolTip": "EduConnect\\AddBalancePage.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAA1wCQAAABOAAAA",
+              "DocumentIndex": 1,
+              "Title": "RestrictPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\RestrictPage.cs",
+              "RelativeDocumentMoniker": "EduConnect\\RestrictPage.cs",
+              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\RestrictPage.cs [Design]",
+              "RelativeToolTip": "EduConnect\\RestrictPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T13:24:54.328Z",
+              "WhenOpened": "2024-06-02T23:11:33.932Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentProfilePage.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\StudentProfilePage.cs",
+              "RelativeDocumentMoniker": "EduConnect\\StudentProfilePage.cs",
+              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\StudentProfilePage.cs",
+              "RelativeToolTip": "EduConnect\\StudentProfilePage.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAkwHwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:29:53.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddBalancePage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\AddBalancePage.cs",
-              "RelativeDocumentMoniker": "EduConnect\\AddBalancePage.cs",
-              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\AddBalancePage.cs [Design]",
-              "RelativeToolTip": "EduConnect\\AddBalancePage.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "CateriaPage.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CateriaPage.cs",
+              "RelativeDocumentMoniker": "EduConnect\\CateriaPage.cs",
+              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CateriaPage.cs",
+              "RelativeToolTip": "EduConnect\\CateriaPage.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAMwBgBAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T13:21:39.832Z",
+              "WhenOpened": "2024-06-02T21:48:40.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CanteenPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CanteenPage.cs",
+              "RelativeDocumentMoniker": "EduConnect\\CanteenPage.cs",
+              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CanteenPage.cs [Design]",
+              "RelativeToolTip": "EduConnect\\CanteenPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:43:14.561Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CateriaPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CateriaPage.cs",
+              "RelativeDocumentMoniker": "EduConnect\\CateriaPage.cs",
+              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CateriaPage.cs [Design]",
+              "RelativeToolTip": "EduConnect\\CateriaPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:22:01.671Z",
               "EditorCaption": " [Design]"
             }
           ]

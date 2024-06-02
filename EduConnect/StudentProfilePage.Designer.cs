@@ -66,6 +66,7 @@
             this.lbl2Balance = new System.Windows.Forms.Label();
             this.lbl2Email = new System.Windows.Forms.Label();
             this.lbl2Surname = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.iconAdminArrow)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.iconAdmin)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.iconParentArrow)).BeginInit();
@@ -422,7 +423,7 @@
             this.btnExamResults.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnExamResults.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExamResults.ForeColor = System.Drawing.Color.White;
-            this.btnExamResults.Location = new System.Drawing.Point(391, 243);
+            this.btnExamResults.Location = new System.Drawing.Point(256, 243);
             this.btnExamResults.Name = "btnExamResults";
             this.btnExamResults.Size = new System.Drawing.Size(177, 47);
             this.btnExamResults.TabIndex = 7;
@@ -436,7 +437,7 @@
             this.btnTimeTable.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTimeTable.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTimeTable.ForeColor = System.Drawing.Color.White;
-            this.btnTimeTable.Location = new System.Drawing.Point(391, 296);
+            this.btnTimeTable.Location = new System.Drawing.Point(256, 333);
             this.btnTimeTable.Name = "btnTimeTable";
             this.btnTimeTable.Size = new System.Drawing.Size(177, 47);
             this.btnTimeTable.TabIndex = 8;
@@ -450,7 +451,7 @@
             this.btnAttendance.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAttendance.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAttendance.ForeColor = System.Drawing.Color.White;
-            this.btnAttendance.Location = new System.Drawing.Point(391, 349);
+            this.btnAttendance.Location = new System.Drawing.Point(513, 333);
             this.btnAttendance.Name = "btnAttendance";
             this.btnAttendance.Size = new System.Drawing.Size(177, 47);
             this.btnAttendance.TabIndex = 9;
@@ -473,7 +474,7 @@
             this.lbl2BirtDAte.AutoSize = true;
             this.lbl2BirtDAte.Location = new System.Drawing.Point(474, 165);
             this.lbl2BirtDAte.Name = "lbl2BirtDAte";
-            this.lbl2BirtDAte.Size = new System.Drawing.Size(14, 20);
+            this.lbl2BirtDAte.Size = new System.Drawing.Size(11, 16);
             this.lbl2BirtDAte.TabIndex = 184;
             this.lbl2BirtDAte.Text = "-";
             // 
@@ -482,7 +483,7 @@
             this.lbl2Class.AutoSize = true;
             this.lbl2Class.Location = new System.Drawing.Point(474, 143);
             this.lbl2Class.Name = "lbl2Class";
-            this.lbl2Class.Size = new System.Drawing.Size(14, 20);
+            this.lbl2Class.Size = new System.Drawing.Size(11, 16);
             this.lbl2Class.TabIndex = 186;
             this.lbl2Class.Text = "-";
             // 
@@ -491,7 +492,7 @@
             this.lbl2Balance.AutoSize = true;
             this.lbl2Balance.Location = new System.Drawing.Point(468, 185);
             this.lbl2Balance.Name = "lbl2Balance";
-            this.lbl2Balance.Size = new System.Drawing.Size(14, 20);
+            this.lbl2Balance.Size = new System.Drawing.Size(11, 16);
             this.lbl2Balance.TabIndex = 187;
             this.lbl2Balance.Text = "-";
             // 
@@ -500,7 +501,7 @@
             this.lbl2Email.AutoSize = true;
             this.lbl2Email.Location = new System.Drawing.Point(461, 208);
             this.lbl2Email.Name = "lbl2Email";
-            this.lbl2Email.Size = new System.Drawing.Size(14, 20);
+            this.lbl2Email.Size = new System.Drawing.Size(11, 16);
             this.lbl2Email.TabIndex = 188;
             this.lbl2Email.Text = "-";
             // 
@@ -513,12 +514,27 @@
             this.lbl2Surname.TabIndex = 185;
             this.lbl2Surname.Text = "-";
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(513, 243);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(177, 47);
+            this.button1.TabIndex = 189;
+            this.button1.Text = "GoToCanteen";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // StudentProfilePage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::EduConnect.Properties.Resources.BackgroundEdu;
             this.ClientSize = new System.Drawing.Size(826, 482);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.lbl2Email);
             this.Controls.Add(this.lbl2Balance);
             this.Controls.Add(this.lbl2Class);
@@ -621,5 +637,6 @@
         private System.Windows.Forms.Label lbl2Balance;
         private System.Windows.Forms.Label lbl2Email;
         private System.Windows.Forms.Label lbl2Surname;
+        private System.Windows.Forms.Button button1;
     }
 }

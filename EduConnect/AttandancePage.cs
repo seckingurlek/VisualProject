@@ -14,7 +14,7 @@ namespace EduConnect
     public partial class AttandancePage : Form
     {
         private string connectionString =
-           @"Data Source=DESKTOP-G556UFM;Initial Catalog=EduConnect;Integrated Security=True";
+           "Data Source=DESKTOP-G556UFM;Initial Catalog=EduConnect;Integrated Security=True";
 
         public AttandancePage()
         {

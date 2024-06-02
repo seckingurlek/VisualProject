@@ -246,3 +246,4 @@ C:\Users\90534\OneDrive\Masaüstü\VisualTermProject-main\Edu-Connect-main\EduCo
 C:\Users\90534\OneDrive\Masaüstü\VisualTermProject-main\Edu-Connect-main\EduConnect\obj\Debug\EduConnect.csproj.Up2Date
 C:\Users\90534\OneDrive\Masaüstü\VisualTermProject-main\Edu-Connect-main\EduConnect\obj\Debug\EduConnect.exe
 C:\Users\90534\OneDrive\Masaüstü\VisualTermProject-main\Edu-Connect-main\EduConnect\obj\Debug\EduConnect.pdb
+C:\Users\90534\OneDrive\Masaüstü\VisualTermProject-main\Edu-Connect-main\EduConnect\obj\Debug\EduConnect.CateriaPage.resources

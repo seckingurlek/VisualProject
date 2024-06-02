@@ -15,7 +15,7 @@ namespace EduConnect
     {
         
         private string connectionString =
-               @"Data Source=DESKTOP-G556UFM;Initial Catalog=EduConnect;Integrated Security=True;";
+               "Data Source=DESKTOP-G556UFM;Initial Catalog=EduConnect;Integrated Security=True;";
         public AddStudentDetailsPage()
         {
             InitializeComponent();

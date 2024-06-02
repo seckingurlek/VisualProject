@@ -117,5 +117,12 @@ namespace EduConnect
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            CateriaPage cateriaPage = new CateriaPage();    
+            cateriaPage.Show();
+            this.Hide();
+        }
     }
 }

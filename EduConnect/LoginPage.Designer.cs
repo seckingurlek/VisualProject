@@ -51,11 +51,11 @@
             // 
             this.txtSignIn.AutoSize = true;
             this.txtSignIn.BackColor = System.Drawing.Color.Transparent;
-            this.txtSignIn.Font = new System.Drawing.Font("LEMON MILK Bold", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtSignIn.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSignIn.ForeColor = System.Drawing.Color.White;
             this.txtSignIn.Location = new System.Drawing.Point(109, 351);
             this.txtSignIn.Name = "txtSignIn";
-            this.txtSignIn.Size = new System.Drawing.Size(157, 47);
+            this.txtSignIn.Size = new System.Drawing.Size(145, 38);
             this.txtSignIn.TabIndex = 1;
             this.txtSignIn.Text = "SIGN IN";
             // 
@@ -63,11 +63,11 @@
             // 
             this.lblUsername.AutoSize = true;
             this.lblUsername.BackColor = System.Drawing.Color.Transparent;
-            this.lblUsername.Font = new System.Drawing.Font("LEMON MILK Bold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblUsername.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblUsername.ForeColor = System.Drawing.Color.White;
             this.lblUsername.Location = new System.Drawing.Point(506, 100);
             this.lblUsername.Name = "lblUsername";
-            this.lblUsername.Size = new System.Drawing.Size(119, 24);
+            this.lblUsername.Size = new System.Drawing.Size(103, 20);
             this.lblUsername.TabIndex = 2;
             this.lblUsername.Text = "User Name";
             // 
@@ -82,23 +82,23 @@
             // tbUsername
             // 
             this.tbUsername.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.tbUsername.Font = new System.Drawing.Font("SansSerif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.tbUsername.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
             this.tbUsername.ForeColor = System.Drawing.Color.Black;
             this.tbUsername.Location = new System.Drawing.Point(458, 142);
             this.tbUsername.Name = "tbUsername";
-            this.tbUsername.Size = new System.Drawing.Size(200, 23);
+            this.tbUsername.Size = new System.Drawing.Size(200, 22);
             this.tbUsername.TabIndex = 1;
             this.tbUsername.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // tbPassword
             // 
             this.tbPassword.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.tbPassword.Font = new System.Drawing.Font("SansSerif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.tbPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
             this.tbPassword.ForeColor = System.Drawing.Color.Black;
             this.tbPassword.Location = new System.Drawing.Point(458, 222);
             this.tbPassword.Name = "tbPassword";
             this.tbPassword.PasswordChar = '*';
-            this.tbPassword.Size = new System.Drawing.Size(200, 23);
+            this.tbPassword.Size = new System.Drawing.Size(200, 22);
             this.tbPassword.TabIndex = 2;
             this.tbPassword.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -114,11 +114,11 @@
             // 
             this.lblPassword.AutoSize = true;
             this.lblPassword.BackColor = System.Drawing.Color.Transparent;
-            this.lblPassword.Font = new System.Drawing.Font("LEMON MILK Bold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPassword.ForeColor = System.Drawing.Color.White;
             this.lblPassword.Location = new System.Drawing.Point(506, 180);
             this.lblPassword.Name = "lblPassword";
-            this.lblPassword.Size = new System.Drawing.Size(113, 24);
+            this.lblPassword.Size = new System.Drawing.Size(91, 20);
             this.lblPassword.TabIndex = 6;
             this.lblPassword.Text = "Password";
             // 
@@ -159,11 +159,11 @@
             // 
             this.lblForgotPassword.AutoSize = true;
             this.lblForgotPassword.BackColor = System.Drawing.Color.Transparent;
-            this.lblForgotPassword.Font = new System.Drawing.Font("SansSerif", 7.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Italic | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.lblForgotPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Italic | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(2)));
             this.lblForgotPassword.ForeColor = System.Drawing.Color.Azure;
             this.lblForgotPassword.Location = new System.Drawing.Point(455, 264);
             this.lblForgotPassword.Name = "lblForgotPassword";
-            this.lblForgotPassword.Size = new System.Drawing.Size(141, 15);
+            this.lblForgotPassword.Size = new System.Drawing.Size(252, 15);
             this.lblForgotPassword.TabIndex = 10;
             this.lblForgotPassword.Text = "Forgot your Password?";
             // 
@@ -174,7 +174,7 @@
             this.btnSignIn.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveBorder;
             this.btnSignIn.FlatAppearance.BorderSize = 0;
             this.btnSignIn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSignIn.Font = new System.Drawing.Font("LEMON MILK Medium", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSignIn.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSignIn.ForeColor = System.Drawing.Color.White;
             this.btnSignIn.Location = new System.Drawing.Point(458, 300);
             this.btnSignIn.Name = "btnSignIn";
@@ -191,7 +191,7 @@
             this.btnRegister.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveBorder;
             this.btnRegister.FlatAppearance.BorderSize = 0;
             this.btnRegister.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnRegister.Font = new System.Drawing.Font("LEMON MILK Medium", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRegister.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRegister.ForeColor = System.Drawing.Color.White;
             this.btnRegister.Location = new System.Drawing.Point(458, 353);
             this.btnRegister.Name = "btnRegister";
@@ -205,11 +205,11 @@
             // 
             this.lblEduConnect.AutoSize = true;
             this.lblEduConnect.BackColor = System.Drawing.Color.Transparent;
-            this.lblEduConnect.Font = new System.Drawing.Font("LEMON MILK Bold", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEduConnect.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblEduConnect.ForeColor = System.Drawing.Color.White;
             this.lblEduConnect.Location = new System.Drawing.Point(262, 24);
             this.lblEduConnect.Name = "lblEduConnect";
-            this.lblEduConnect.Size = new System.Drawing.Size(281, 47);
+            this.lblEduConnect.Size = new System.Drawing.Size(271, 38);
             this.lblEduConnect.TabIndex = 1000;
             this.lblEduConnect.Text = "EDU CONNECT";
             // 

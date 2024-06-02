@@ -13,7 +13,7 @@ namespace EduConnect
 {
     public partial class AddBalancePage : Form
     {
-        private string connectionString = @"Data Source=DESKTOP-G556UFM;Initial Catalog=EduConnect;Integrated Security=True";
+        private string connectionString = "Data Source=DESKTOP-G556UFM;Initial Catalog=EduConnect;Integrated Security=True";
         public AddBalancePage()
         {
             InitializeComponent();
@@ -26,7 +26,8 @@ namespace EduConnect
         {
             UserSession session = UserSession.Instance;
             int parentID = session.UserId; // Giriş yapan parent'ın ID'sini al
-            MessageBox.Show(session.FirstName + session.LastName + session.Email );
+
+            MessageBox.Show($"Parent Information: {session.FirstName} {session.LastName} {session.Email} (ID: {parentID})");
 
             if (parentID != 0) // Parent ID 0 değilse devam et
             {
@@ -39,7 +40,7 @@ namespace EduConnect
                 if (studentName != null) // Öğrenci adı null değilse devam et
                 {
                     tbName.Text = studentName; // Öğrenci adını tbName kontrolüne yazdır
-                    tbAmount2.Text = studentBalance.ToString();              // Öğrencinin bakiyesini kullanmak isterseniz burada kullanabilirsiniz
+                    tbAmount2.Text = studentBalance.ToString(); // Öğrencinin bakiyesini kullanmak isterseniz burada kullanabilirsiniz
                 }
                 else
                 {
@@ -66,14 +67,27 @@ namespace EduConnect
                 {
                     command.Parameters.AddWithValue("@ParentID", parentID);
 
-                    connection.Open();
-                    SqlDataReader reader = command.ExecuteReader();
-                    if (reader.Read())
+                    try
                     {
-                        studentName = reader["FirstName"].ToString();
-                        studentBalance = (decimal)reader["Balance"];
+                        connection.Open();
+                        MessageBox.Show($"Database connected. Executing query with ParentID: {parentID}");
+                        SqlDataReader reader = command.ExecuteReader();
+                        if (reader.Read())
+                        {
+                            studentName = reader["FirstName"].ToString();
+                            studentBalance = (decimal)reader["Balance"];
+                            MessageBox.Show($"Student found: {studentName} with balance {studentBalance}");
+                        }
+                        else
+                        {
+                            MessageBox.Show($"No student found with ParentID: {parentID}");
+                        }
+                        reader.Close();
                     }
-                    reader.Close();
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show($"Database query failed: {ex.Message}");
+                    }
                 }
             }
         }
@@ -131,12 +145,12 @@ namespace EduConnect
         }
 
         private void label1_Click(object sender, EventArgs e)
-        {
+        {                       
 
         }
 
 
-
+            
         private void btAddBalance_Click(object sender, EventArgs e)
         {
 

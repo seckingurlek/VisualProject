@@ -22,7 +22,7 @@ namespace EduConnect
             public string DateOfBirth { get; private set; }
             public string Address { get; private set; }
             public string ParentName { get; private set; }
-            public decimal Balance { get; private set; }
+            public decimal Balance { get;  set; }
 
             //Parent
 

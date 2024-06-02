@@ -212,6 +212,12 @@
     <Compile Include="CanteenPage.Designer.cs">
       <DependentUpon>CanteenPage.cs</DependentUpon>
     </Compile>
+    <Compile Include="CateriaPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CateriaPage.Designer.cs">
+      <DependentUpon>CateriaPage.cs</DependentUpon>
+    </Compile>
     <Compile Include="ExamResultsPage.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -286,6 +292,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CanteenPage.resx">
       <DependentUpon>CanteenPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CateriaPage.resx">
+      <DependentUpon>CateriaPage.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ExamResultsPage.resx">
       <DependentUpon>ExamResultsPage.cs</DependentUpon>

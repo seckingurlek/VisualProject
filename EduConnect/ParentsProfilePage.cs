@@ -16,7 +16,7 @@ namespace EduConnect
 
         private SqlConnection connect =
             new SqlConnection
-                (@"Data Source=DESKTOP-G556UFM;Initial Catalog=EduConnect;Integrated Security=True;");
+                ("Data Source=DESKTOP-G556UFM;Initial Catalog=EduConnect;Integrated Security=True;");
 
         public ParentsProfilePage()
         {
