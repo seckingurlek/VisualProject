@@ -265,7 +265,7 @@ namespace EduConnect
         {
             string query = @"
                 SELECT COUNT(*)
-                FROM ItemRestrictions r
+                FROM ProductRestriction r
                 JOIN Students s ON r.StudentID = s.StudentID
                 WHERE s.StudentID = @StudentID AND r.ItemID = @ItemID AND r.IsRestricted = 1";
 

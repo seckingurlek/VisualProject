@@ -124,5 +124,15 @@ namespace EduConnect
             cateriaPage.Show();
             this.Hide();
         }
+
+        private void lblName_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl2Surname_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

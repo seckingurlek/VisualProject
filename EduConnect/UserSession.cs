@@ -81,11 +81,10 @@ namespace EduConnect
                 StudentClass = string.Empty;
             }
 
-            public void SetStudentInfo(string studentClass, string parentName, string address, string dateOfBirth, decimal balance)
+            public void SetStudentInfo(string studentClass, string parentName, string dateOfBirth, decimal balance)
             {
                 StudentClass = studentClass;
                 ParentName = parentName;
-                Address = address;
                 DateOfBirth = dateOfBirth;
                 Balance = balance;
             }

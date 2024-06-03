@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\educonnect\\restrictpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\restrictpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|c:\\users\\90534\\onedrive\\masa\u00FCst\u00FC\\visualtermproject-main\\edu-connect-main\\educonnect\\cateriapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\cateriapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\restrictpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|c:\\users\\90534\\onedrive\\masa\u00FCst\u00FC\\visualtermproject-main\\edu-connect-main\\educonnect\\studentprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\studentprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|c:\\users\\90534\\onedrive\\masa\u00FCst\u00FC\\visualtermproject-main\\edu-connect-main\\educonnect\\parentsprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\parentsprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|c:\\users\\90534\\onedrive\\masa\u00FCst\u00FC\\visualtermproject-main\\edu-connect-main\\educonnect\\cateriapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\cateriapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|c:\\users\\90534\\onedrive\\masa\u00FCst\u00FC\\visualtermproject-main\\edu-connect-main\\educonnect\\parentsprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\parentsprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|c:\\users\\90534\\onedrive\\masa\u00FCst\u00FC\\visualtermproject-main\\edu-connect-main\\educonnect\\canteenpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\canteenpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\educonnect\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D392477-46EB-4D7E-BEE5-B5DC0694ADC5}|EduConnect\\EduConnect.csproj|solutionrelative:educonnect\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,63 +51,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CateriaPage.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CateriaPage.cs",
+              "RelativeDocumentMoniker": "EduConnect\\CateriaPage.cs",
+              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CateriaPage.cs",
+              "RelativeToolTip": "EduConnect\\CateriaPage.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAuwAsBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:41:57.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParentsProfilePage.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\ParentsProfilePage.cs",
+              "RelativeDocumentMoniker": "EduConnect\\ParentsProfilePage.cs",
+              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\ParentsProfilePage.cs",
+              "RelativeToolTip": "EduConnect\\ParentsProfilePage.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAvwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:37:17.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParentsProfilePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\ParentsProfilePage.cs",
+              "RelativeDocumentMoniker": "EduConnect\\ParentsProfilePage.cs",
+              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\ParentsProfilePage.cs [Design]",
+              "RelativeToolTip": "EduConnect\\ParentsProfilePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:37:13.826Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\UserSession.cs",
+              "RelativeDocumentMoniker": "EduConnect\\UserSession.cs",
+              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\UserSession.cs",
+              "RelativeToolTip": "EduConnect\\UserSession.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwFgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:35:58.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestrictPage.cs",
+              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\RestrictPage.cs",
+              "RelativeDocumentMoniker": "EduConnect\\RestrictPage.cs",
+              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\RestrictPage.cs",
+              "RelativeToolTip": "EduConnect\\RestrictPage.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAnwOMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:51:44.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RestrictPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\RestrictPage.cs",
               "RelativeDocumentMoniker": "EduConnect\\RestrictPage.cs",
               "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\RestrictPage.cs [Design]",
               "RelativeToolTip": "EduConnect\\RestrictPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T23:11:33.932Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentProfilePage.cs",
-              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\StudentProfilePage.cs",
-              "RelativeDocumentMoniker": "EduConnect\\StudentProfilePage.cs",
-              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\StudentProfilePage.cs",
-              "RelativeToolTip": "EduConnect\\StudentProfilePage.cs",
-              "ViewState": "AQIAAGsAAAAAAAAAAAAkwHwAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T22:29:53.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CateriaPage.cs",
-              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CateriaPage.cs",
-              "RelativeDocumentMoniker": "EduConnect\\CateriaPage.cs",
-              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CateriaPage.cs",
-              "RelativeToolTip": "EduConnect\\CateriaPage.cs",
-              "ViewState": "AQIAAO0AAAAAAAAAAAAMwBgBAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T21:48:40.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CanteenPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CanteenPage.cs",
-              "RelativeDocumentMoniker": "EduConnect\\CanteenPage.cs",
-              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CanteenPage.cs [Design]",
-              "RelativeToolTip": "EduConnect\\CanteenPage.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T21:43:14.561Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CateriaPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CateriaPage.cs",
-              "RelativeDocumentMoniker": "EduConnect\\CateriaPage.cs",
-              "ToolTip": "C:\\Users\\90534\\OneDrive\\Masa\u00FCst\u00FC\\VisualTermProject-main\\Edu-Connect-main\\EduConnect\\CateriaPage.cs [Design]",
-              "RelativeToolTip": "EduConnect\\CateriaPage.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T20:22:01.671Z",
+              "WhenOpened": "2024-06-03T00:51:44.481Z",
               "EditorCaption": " [Design]"
             }
           ]

@@ -94,6 +94,7 @@
             this.lblName.Size = new System.Drawing.Size(52, 16);
             this.lblName.TabIndex = 171;
             this.lblName.Text = "Name:";
+            this.lblName.Click += new System.EventHandler(this.lblName_Click);
             // 
             // iconAdminArrow
             // 
@@ -513,6 +514,7 @@
             this.lbl2Surname.Size = new System.Drawing.Size(11, 16);
             this.lbl2Surname.TabIndex = 185;
             this.lbl2Surname.Text = "-";
+            this.lbl2Surname.Click += new System.EventHandler(this.lbl2Surname_Click);
             // 
             // button1
             // 
